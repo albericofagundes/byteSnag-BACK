@@ -1,0 +1,20 @@
+# Módulos do Node.js
+node_modules/
+
+# Arquivos de registro
+npm-debug.log
+yarn-error.log
+
+# Diretório de saída de compilação
+dist/
+
+# Dependências locais
+.env
+
+# Arquivos ocultos (por exemplo, .DS_Store)
+.DS_Store
+
+# Arquivos de configuração específicos do usuário
+npmrc
+yarnrc
+yarn.lock
